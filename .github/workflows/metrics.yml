@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           filename: metrics.svg
-          user: tttiimmothhy
+          user: ttiimmothhy
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern
