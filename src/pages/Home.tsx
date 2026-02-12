@@ -9,7 +9,7 @@ import metrics from "../../metrics.svg";
 
 const Home: React.FC = () => {
   return (
-    <div className="flex items-start w-280">
+    <div className="flex items-start">
       {/* <Link to="/id/gaeron" className="grow">
         <img src={metricsGaearon} />
       </Link>
